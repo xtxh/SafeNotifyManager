@@ -22,7 +22,7 @@ pod 'SafeNotifyManager'
 
 ## Author
 
-v_keping, v_keping@wanda.cn
+xtxh, xtxh@outlook.com
 
 ## License
 

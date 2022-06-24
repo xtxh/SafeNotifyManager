@@ -1,0 +1,6 @@
+framework module Pods_SafeNotifyManager_Tests {
+  umbrella header "Pods-SafeNotifyManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

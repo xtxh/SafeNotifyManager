@@ -1,0 +1,16 @@
+PODS:
+  - SafeNotifyManager (0.1.0)
+
+DEPENDENCIES:
+  - SafeNotifyManager (from `../`)
+
+EXTERNAL SOURCES:
+  SafeNotifyManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafeNotifyManager: 51deb64fac5adae8fd63b625b29f443b833aefb4
+
+PODFILE CHECKSUM: 674a290d992fa21ab4c70c9db1b0bd6d94372967
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,22 @@
+{
+  "name": "SafeNotifyManager",
+  "version": "0.1.0",
+  "summary": "A short description of SafeNotifyManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/v_keping/SafeNotifyManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "v_keping": "v_keping@wanda.cn"
+  },
+  "source": {
+    "git": "https://github.com/v_keping/SafeNotifyManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SafeNotifyManager/Classes/**/*"
+}
