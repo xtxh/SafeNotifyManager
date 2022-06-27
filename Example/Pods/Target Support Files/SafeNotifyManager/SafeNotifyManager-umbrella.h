@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "SafeNotifyManager.h"
 
 FOUNDATION_EXPORT double SafeNotifyManagerVersionNumber;
 FOUNDATION_EXPORT const unsigned char SafeNotifyManagerVersionString[];

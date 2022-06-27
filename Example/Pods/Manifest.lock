@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SafeNotifyManager: 51deb64fac5adae8fd63b625b29f443b833aefb4
+  SafeNotifyManager: de9fc3b40a2eff17b0c5b3f1fad966e2d6f2b1f4
 
 PODFILE CHECKSUM: 674a290d992fa21ab4c70c9db1b0bd6d94372967
 

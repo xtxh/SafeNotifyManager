@@ -3,20 +3,21 @@
   "version": "0.1.0",
   "summary": "A short description of SafeNotifyManager.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/v_keping/SafeNotifyManager",
+  "homepage": "https://github.com/xtxh/SafeNotifyManager",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "v_keping": "v_keping@wanda.cn"
+    "xtxh": "xtxh@outlook.com"
   },
   "source": {
-    "git": "https://github.com/v_keping/SafeNotifyManager.git",
+    "git": "https://github.com/xtxh/SafeNotifyManager.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "SafeNotifyManager/Classes/**/*"
+  "source_files": "SafeNotifyManager/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h"
 }
